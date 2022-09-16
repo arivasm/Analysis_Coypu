@@ -1,0 +1,49 @@
+country,label,sameAsCountry
+http://worldbank.org/Country/AND,Andorra,http://www.wikidata.org/entity/Q228
+http://worldbank.org/Country/ARG,Argentina,http://www.wikidata.org/entity/Q154574
+http://worldbank.org/Country/ASM,American Samoa,http://www.wikidata.org/entity/Q16641
+http://worldbank.org/Country/AUS,Australia,http://www.wikidata.org/entity/Q781244
+http://worldbank.org/Country/AUT,Austria,http://www.wikidata.org/entity/Q131964
+http://worldbank.org/Country/BEL,Belgium,http://www.wikidata.org/entity/Q239
+http://worldbank.org/Country/BRA,Brazil,http://www.wikidata.org/entity/Q598435
+http://worldbank.org/Country/CHE,Switzerland,http://www.wikidata.org/entity/Q4225
+http://worldbank.org/Country/CHN,China,http://www.wikidata.org/entity/Q136211
+http://worldbank.org/Country/COL,Colombia,http://www.wikidata.org/entity/Q62823
+http://worldbank.org/Country/DEU,Germany,http://www.wikidata.org/entity/Q7318
+http://worldbank.org/Country/DNK,Denmark,http://www.wikidata.org/entity/Q115534
+http://worldbank.org/Country/ESP,Spain,http://www.wikidata.org/entity/Q42267
+http://worldbank.org/Country/FRA,France,http://www.wikidata.org/entity/Q47774
+http://worldbank.org/Country/FRO,Faroe Islands,http://www.wikidata.org/entity/Q4575
+http://worldbank.org/Country/GBR,United Kingdom,http://www.wikidata.org/entity/Q22
+http://worldbank.org/Country/GEO,Georgia,http://www.wikidata.org/entity/Q1428
+http://worldbank.org/Country/GIB,Gibraltar,http://www.wikidata.org/entity/Q1410
+http://worldbank.org/Country/GRL,Greenland,http://www.wikidata.org/entity/Q919948
+http://worldbank.org/Country/IND,India,http://www.wikidata.org/entity/Q129286
+http://worldbank.org/Country/ISR,Israel,http://www.wikidata.org/entity/Q155321
+http://worldbank.org/Country/JPN,Japan,http://www.wikidata.org/entity/Q184963
+http://worldbank.org/Country/LBN,Lebanon,http://www.wikidata.org/entity/Q333711
+http://worldbank.org/Country/LBY,Libya,http://www.wikidata.org/entity/Q15
+http://worldbank.org/Country/MAF,St. Martin (French part),http://www.wikidata.org/entity/Q25596
+http://worldbank.org/Country/MCO,Monaco,http://www.wikidata.org/entity/Q235
+http://worldbank.org/Country/MEX,Mexico,http://www.wikidata.org/entity/Q1489
+http://worldbank.org/Country/MLI,Mali,http://www.wikidata.org/entity/Q449153
+http://worldbank.org/Country/MLT,Malta,http://www.wikidata.org/entity/Q216993
+http://worldbank.org/Country/MNP,Northern Mariana Islands,http://www.wikidata.org/entity/Q16644
+http://worldbank.org/Country/NCL,New Caledonia,http://www.wikidata.org/entity/Q22
+http://worldbank.org/Country/NER,Niger,http://www.wikidata.org/entity/Q136536
+http://worldbank.org/Country/NRU,Nauru,http://www.wikidata.org/entity/Q697
+http://worldbank.org/Country/PER,Peru,http://www.wikidata.org/entity/Q38874
+http://worldbank.org/Country/POL,Poland,http://www.wikidata.org/entity/Q385059
+http://worldbank.org/Country/PRI,Puerto Rico,http://www.wikidata.org/entity/Q56839
+http://worldbank.org/Country/PRT,Portugal,http://www.wikidata.org/entity/Q75729
+http://worldbank.org/Country/PSE,West Bank and Gaza,http://www.wikidata.org/entity/Q371247
+http://worldbank.org/Country/SWE,Sweden,http://www.wikidata.org/entity/Q26345
+http://worldbank.org/Country/SXM,Sint Maarten (Dutch part),http://www.wikidata.org/entity/Q25596
+http://worldbank.org/Country/TCA,Turks and Caicos Islands,http://www.wikidata.org/entity/Q18221
+http://worldbank.org/Country/TON,Tonga,http://www.wikidata.org/entity/Q34094
+http://worldbank.org/Country/TUR,Türkiye,http://www.wikidata.org/entity/Q1375058
+http://worldbank.org/Country/TUV,Tuvalu,http://www.wikidata.org/entity/Q672
+http://worldbank.org/Country/UGA,Uganda,http://www.wikidata.org/entity/Q4598
+http://worldbank.org/Country/VEN,"Venezuela, RB",http://www.wikidata.org/entity/Q895
+http://worldbank.org/Country/VGB,British Virgin Islands,http://www.wikidata.org/entity/Q25305
+http://worldbank.org/Country/ZAF,South Africa,http://www.wikidata.org/entity/Q3926

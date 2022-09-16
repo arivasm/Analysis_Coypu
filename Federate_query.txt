@@ -1,0 +1,30 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+
+
+SELECT DISTINCT ?sameAsCountry WHERE {
+  SERVICE <https://labs.tib.eu/sdm/worldbank_endpoint/sparql> {
+    ?country a <http://worldbank.org/Country> .
+		?country <http://www.w3.org/2002/07/owl#sameAs> ?sameAsCountry .
+    ?country <http://worldbank.org/hasAnnualIndicatorEntry> ?annualIndicator .
+    ?annualIndicator <http://worldbank.org/hasIndicator> <http://worldbank.org/Indicator/SP.DYN.LE00.IN> .
+    ?annualIndicator <http://www.w3.org/2002/07/owl#hasValue> ?year_exp_WB .
+    ?annualIndicator <http://www.w3.org/2006/time#year> ?date_WB .
+
+
+  }
+  SERVICE <https://query.wikidata.org/sparql> {
+    ?sameAsCountry p:P2250 ?item .
+    ?item	ps:P2250 ?year_exp .
+    ?item	pq:P585 ?date .
+    OPTIONAL{?item pq:P518 ?gender .}
+		    
+      }
+	}
+
+
