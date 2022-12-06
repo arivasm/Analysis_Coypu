@@ -4,4 +4,3 @@ ipywidgets
 voila
 voila-material
 IPython
-os
